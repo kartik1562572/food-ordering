@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken Burgur",
+        "price": "Rs100",
+        "image": "images/burger.png"
+    },
+    {
+        "id": 2,
+        "name": "Veggie Pizza",
+        "price": "Rs140",
+        "image": "images/pizza.png"
+    },
+    {
+        "id": 3,
+        "name": "Fried Chicken",
+        "price": "Rs200",
+        "image": "images/fried-chicken.png"
+    },
+    {
+        "id": 4,
+        "name": "Chicken Roll",
+        "price": "Rs90",
+        "image": "images/chicken-roll.png"
+    },
+    {
+        "id": 5,
+        "name": "Sub Sandwich",
+        "price": "Rs70",
+        "image": "images/sandwich.png"
+    },
+    {
+        "id": 6,
+        "name": "Chicken Lasagna",
+        "price": "Rs180",
+        "image": "images/lasagna.png"
+    },
+    {
+        "id": 7,
+        "name": "Spring-Roll",
+        "price": "Rs120",
+        "image": "images/spring-roll.png"
+    }
+  
+]
